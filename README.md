@@ -2,6 +2,8 @@
 |주관|소속|프로젝트 기간|
 |:---:|:---:|:---:|
 |[KT 에이블스쿨](https://aivle.kt.co.kr/home/main/indexMain)|KT 에이블스쿨 5기 대구/경북 8반 25조|2024-06-17~2024-07-29|
+|1|허승빈|수질 & 어업 데이터 전처리 및 데이터 분석|
+|2|안성익|ML 모델 & 대시보드 프로토 타입 설계|
 
 ### 프로젝트 요약(가상 사업)
 ![사업요약](https://github.com/user-attachments/assets/a4d337c8-86da-483e-87ca-ab1cf3adf71c)
