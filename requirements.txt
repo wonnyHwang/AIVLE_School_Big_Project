@@ -1,0 +1,7 @@
+pandas
+openpyxl
+jupyter
+netcdf4
+h5netcdf
+dask
+bottleneck
