@@ -6,16 +6,16 @@
 |2|안성익|ML 모델 & 대시보드 프로토 타입 설계|
 
 ### 프로젝트 요약(가상 사업)
-![사업요약](https://github.com/user-attachments/assets/a4d337c8-86da-483e-87ca-ab1cf3adf71c)
+![사업요약](https://github.com/user-attachments/assets/9c4144ef-9cf1-4230-ba56-a34912ac7922)
 
 ### 서비스 시나리오
-![서비스시나리오](https://github.com/user-attachments/assets/625684e2-daaf-42a4-a9e9-ee55a1304b15)
+![서비스시나리오](https://github.com/user-attachments/assets/777f0559-7a51-4c98-a013-a4179b586a08)
 
 ### 사용 데이터 및 출처
 - 본 저작물은 기상청 기후정보포털에서 공공누리 제1유형으로 개방한 국가 기후변화 표준 시나리오를 이용하였으며, 해당 저작물은 [기상청 기후정보포털](http://www.climate.go.kr/home/bbs/view.php?code=11&bname=notice&vcode=6925&cpage=1&vNum=Notice&skind=&sword=&category1=&category2=)을 참고하여 API 신청을 통해 무료로 이용할 수 있습니다.
 
 #### 국내 해양 생태구 해역 구분(출처: [국가법령정보센터](https://www.law.go.kr/flDownload.do?flSeq=14495017&flNm=%5B%EB%B3%84%ED%91%9C%5D+%EC%83%9D%ED%83%9C%EA%B5%AC%EB%B3%84+%ED%95%B4%EC%97%AD+%EA%B5%AC%EB%B6%84%ED%91%9C))
-![생태구 구분](https://github.com/user-attachments/assets/3102eb50-33f9-4767-b158-be56567f3480)
+![생태구 구분](https://github.com/user-attachments/assets/d0582a2c-255c-433f-91b8-72d43b4287c5)
 
 #### 수질/수온 예측 데이터
 > [**기상청 기후정보포털**](http://www.climate.go.kr/home/bbs/view.php?code=11&bname=notice&vcode=6925&cpage=1&vNum=Notice&skind=&sword=&category1=&category2=)
